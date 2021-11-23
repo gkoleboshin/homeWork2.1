@@ -18,9 +18,11 @@
 4. Дизайн-студия имени Слишком Известного Персонажа 4
 
 Ниже пример кода из нашего приложения:
-'''CSS
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
-'''
+
+```css
+    .selector {font-family: "Awesome", Arial, sans-serif;
+	color: red;}
+```
+
+
+
